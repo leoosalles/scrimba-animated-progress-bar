@@ -1,5 +1,7 @@
-# scrimba-animated-progress-bar
-A <strong>pure CSS progress bar animation</strong>, designed to <strong>fill dynamically</strong> from 0% to 100% while smoothly transitioning between colors.
+<h1>Animated Progress Bar 📊</h1>
+<p>
+  A <strong>pure CSS progress bar animation</strong>, designed to <strong>fill dynamically</strong> from 0% to 100% while smoothly transitioning between colors.
+</p>
 <h2>✨ Features</h2>
 <ul>
   <li>
